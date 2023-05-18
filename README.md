@@ -30,10 +30,7 @@ Project is: _in progress_.
 
 ## Room for Improvement
 TODO:
-- Shop does not work
-- Items change in every refresh but should refresh only once a day
-- Items in shop doesnt have their stats 
-- a lot more
+-more enemies
 
 ## Acknowledgements
 - This project was inspired by youtube tutorial made by freeCodeCamp.org
